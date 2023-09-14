@@ -81,9 +81,11 @@ h1{
 }
 /* Intro */
 #intro{
-    margin-top: 20px;
+    margin-top: 40px;
     display: flex;
     justify-content: space-evenly;
+    background-image: url(blogpic5.png);
+    background-size: 1000px;
 }
 .about{
     text-align: center;
