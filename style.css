@@ -5,6 +5,7 @@ body{
     font-family: 'Noto Sans Duployan', sans-serif;
     /* color: beige; */
     color: #F8F1FF;
+    min-height: 100vh;
 }
 html{
     scroll-behavior: smooth;
@@ -124,7 +125,6 @@ h1{
     width: 800px;
     display: grid;
     grid-template-columns: repeat(2,2fr);
-    gap: 10px;
 }
 .skill-items{  
     text-align: center;
